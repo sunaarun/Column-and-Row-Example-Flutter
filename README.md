@@ -1,6 +1,14 @@
 # column_and_row
 
-A new Flutter project.
+A new Flutter project that shows how we can use **Column** and **Row** and how to handle exceptions id happend while we are using one of these Widgets, 
+You can watch the episode here : 
+https://youtu.be/zgKQZjjqU6I
+
+
+![column](https://user-images.githubusercontent.com/36349126/135582829-da750155-eb14-49ff-88e8-fedfe98d9c81.png)
+![row](https://user-images.githubusercontent.com/36349126/135582848-92ede163-133b-4dfe-b9ab-c43c43811d87.png)
+
+
 
 ## Getting Started
 
